@@ -1,1 +1,1 @@
-# parallel_computing_resources
+# Parallel Computing Resources
