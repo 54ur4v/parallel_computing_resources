@@ -1,4 +1,4 @@
-# CUDA and GPU Computing Resources
+# CUDA and GPU Computing
 
 ## CUDA Programming and Hardware Execution Model
 
