@@ -1,4 +1,4 @@
-# Parallel Algorithms Resources
+# Parallel Algorithms
 
 ## Introductory
 
